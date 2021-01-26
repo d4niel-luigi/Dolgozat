@@ -1,0 +1,72 @@
+body{
+    background-color: grey;
+}
+table{
+    padding: 30px;
+    width: 960px;
+    background-color: lightblue;
+    margin: auto;
+}
+h1{
+    text-align: center; 
+}
+h2{
+    color:  darkblue;
+    margin-right: 40%;
+    box-sizing: border-box;
+    border: none;
+    border-top: 2px solid darkblue;
+    border-bottom: 2px dotted darkblue;
+    font-variant: small-caps;
+}
+hr{
+    color: darkblue;
+    
+}
+p{
+    text-align: justify;
+}
+img{
+    max-width: 200px;
+    border: 10px solid darkblue;
+}
+.elsokep{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    box-shadow: 5px 5px 3px #1D1D4E;
+}
+.masodikkep{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    clear: both;
+    box-shadow: 5px 5px 3px #1D1D4E;
+}
+ul{
+    margin-left: 60px;
+    list-style-image: url(img/kukac.png);
+}
+.left{
+    text-align: left;
+}
+.harmadikkep{
+    float: left;
+    margin-right: 20px;
+    box-shadow: 5px 5px 3px #1D1D4E;
+}
+.negyedikkep{
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 3px #1D1D4E;
+}
+.otodikkep{
+    float: left;
+    margin-right: 20px;
+    box-shadow: 5px 5px 3px #1D1D4E; 
+}
+a{
+    margin-left: 465px;
+    font-style: italic;
+}
